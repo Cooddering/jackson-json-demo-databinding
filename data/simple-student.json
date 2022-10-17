@@ -1,0 +1,13 @@
+{
+"id":12121312,
+"firstName":"Ozkan",
+"lastName":"IzcI",
+"address":{
+	"country":"TURKEY",
+	"city":"Mersin",
+	"postalCode":"33760"
+},
+"languages":["Turkish","English","Germany"],
+"programingLanguages" : "Java"
+
+}
